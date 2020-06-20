@@ -1,6 +1,8 @@
 # Codeigniter Model for Path.com API
 
+```
 :warning: **This library is considered `deprecated` as of now since Path APP has been decomissioned since 2018.**
+```
 
 A simple Wrapper model to interact with Path.com API
 
